@@ -102,9 +102,9 @@ The goal was to utilize the **Metasploit Framework** to showcase core offensive 
 ---
 
 ## 📁 Repository Contents
-📂 Android-Mobile-Penetration-Test/
+📂 Android-Mobile-Penetration-Test
 ┣ 🧾 README.md
-┣ 📁 images/
+┣ 📁 images
 ## 💬 Project Status
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
