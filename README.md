@@ -1,11 +1,12 @@
-# 🛡️ Mobile Application Security Testing (Android) — Metasploit Analysis  
+# 🛡️ Android Mobile Pentesting Simulation: Remote C2 & Post-Exploitation Analysis
+## Utilizing Metasploit for Data Exfiltration and Activity Injection
 **Author:** Aman Sharma  
-**Role:** Penetration Tester (Simulation)  
+**Role:** VAPT & Pentesting(Simulation)  
 
 -
 
 ## 📘 Overview  
-This project demonstrates a hands-on simulation of a **Mobile Application Penetration Test** on an Android target. The focus was to simulate an attacker exploiting a compromised device to exfiltrate sensitive data and manipulate user activity.
+This project demonstrates a hands-on simulation of a **Mobile  Penetration Test** on an Android target. The focus was to simulate an attacker exploiting a compromised device to exfiltrate sensitive data and manipulate user activity.
 
 The goal was to utilize the **Metasploit Framework** to showcase core offensive security skills, including payload generation, listener configuration, and post-exploitation activities, directly correlating findings to common mobile security vulnerabilities like **Insecure Data Storage** and **Weak Authentication**.
 
